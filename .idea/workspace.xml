@@ -2,37 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78fddf64-6429-4d54-851e-3e9d628eaa11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/creational/abstractfactory/zad_Bike/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/creational/abstractfactory/zad_Bike/BikeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/creational/abstractfactory/zad_Bike/BikeType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/creational/abstractfactory/zad_Bike/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/creational/abstractfactory/zad_PC/AbstractPC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/creational/abstractfactory/zad_PC/AppleMac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/creational/abstractfactory/zad_PC/AsusPC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/creational/abstractfactory/zad_PC/COMPUTER_BRAND.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/creational/abstractfactory/zad_PC/HpPC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/creational/abstractfactory/zad_PC/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/creational/abstractfactory/zad_PC/SamsungPC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/creational/builder/zad_game/GameCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/creational/builder/zad_game/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/creational/builder/zad_pieczatka/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/creational/builder/zad_pieczatka/Stamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/Drukarka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/IFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/strategies/FormatterInverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/strategies/FormatterLower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/strategies/FormatterSplitter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/strategies/FormatterTrim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/strategies/FormatterUpper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_samochod/INaped.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_samochod/Samochod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_samochod/SilnikSpalinowy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/singleton/przyklad/zad_ticket/Automat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creational/singleton/Automat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/singleton/przyklad/zad_ticket/GeneratorTicketow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creational/singleton/GeneratorTicketow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/singleton/przyklad/zad_ticket/IGeneratorTicketow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creational/singleton/IGeneratorTicketow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/singleton/przyklad/zad_ticket/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creational/singleton/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/singleton/przyklad/zad_ticket/Poczta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creational/singleton/Poczta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/singleton/przyklad/zad_ticket/Rejestracja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creational/singleton/Rejestracja.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/singleton/przyklad/zad_ticket/StronaInternetowa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creational/singleton/StronaInternetowa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/singleton/przyklad/zad_ticket/Automat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/singleton/przyklad/zad_ticket/GeneratorTicketow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/singleton/przyklad/zad_ticket/IGeneratorTicketow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/singleton/przyklad/zad_ticket/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/singleton/przyklad/zad_ticket/Poczta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/singleton/przyklad/zad_ticket/Rejestracja.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/singleton/przyklad/zad_ticket/StronaInternetowa.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -45,67 +26,111 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/creational/abstractfactory/zad_PC/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#213#225#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/creational/abstractfactory/zad_Bike/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/IFormatter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/creational/builder/zad_game/GameCharacter.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/strategies/FormatterUpper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-396">
-              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+            <state relative-caret-position="119">
+              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
               <folding>
-                <element signature="e#1002#1003#0" expanded="true" />
-                <element signature="e#1051#1052#0" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/creational/builder/zad_game/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/strategies/FormatterTrim.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#279#294#0" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/strategies/FormatterInverter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="53" lean-forward="true" selection-start-column="53" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/creational/builder/zad_pieczatka/Stamp.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="105" column="16" selection-start-line="105" selection-start-column="16" selection-end-line="105" selection-end-column="16" />
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/creational/builder/zad_pieczatka/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/strategies/FormatterSplitter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_samochod/Samochod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_samochod/INaped.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_samochod/SilnikSpalinowy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/Drukarka.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#290#291#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -115,10 +140,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Singleton" />
         <option value="Enum" />
         <option value="FxmlFile" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -168,8 +193,19 @@
         <option value="$PROJECT_DIR$/src/main/java/creational/builder/zad_game/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/creational/builder/zad_game/GameCharacter.java" />
         <option value="$PROJECT_DIR$/src/main/java/creational/builder/zad_pieczatka/mAIN.java" />
-        <option value="$PROJECT_DIR$/src/main/java/creational/builder/zad_pieczatka/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/creational/builder/zad_pieczatka/Stamp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/creational/builder/zad_pieczatka/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/IFormatterCzcionki.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/strategies/FormatterUpper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/strategies/FormatterLower.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/strategies/FormatterTrim.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/strategies/FormatterSplitter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/Drukarka.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/strategies/FormatterInverter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/stategy/zad_samochod/SilnikSpalinowy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/stategy/zad_samochod/INaped.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behavioral/stategy/zad_samochod/Samochod.java" />
       </list>
     </option>
   </component>
@@ -216,36 +252,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wzorce_proektowe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wzorce_proektowe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-              <item name="builder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wzorce_proektowe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wzorce_proektowe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-              <item name="builder" type="462c0819:PsiDirectoryNode" />
-              <item name="zad_game" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wzorce_proektowe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wzorce_proektowe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-              <item name="builder" type="462c0819:PsiDirectoryNode" />
-              <item name="zad_pieczatka" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -257,7 +264,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553347721375" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553353376224" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -278,7 +285,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="creational.abstractfactory.zad_PC.Main" />
       <module name="wzorce_proektowe" />
@@ -318,6 +325,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavioral.strategy.zad_cczcionka.Main" />
+      <module name="wzorce_proektowe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="behavioral.strategy.zad_cczcionka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="creational.singleton.Main" />
       <module name="wzorce_proektowe" />
@@ -333,6 +353,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
@@ -350,23 +371,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553331409136</updated>
-      <workItem from="1553331412227" duration="13300000" />
+      <workItem from="1553331412227" duration="19630000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13300000" />
+    <option name="totallyTimeSpent" value="19630000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20201342" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20201342" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -376,7 +396,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -632,13 +652,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/creational/builder/zad_pieczatka/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/creational/builder/zad_game/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -650,10 +663,125 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/creational/builder/zad_pieczatka/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/creational/builder/zad_pieczatka/Stamp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="105" column="16" selection-start-line="105" selection-start-column="16" selection-end-line="105" selection-end-column="16" />
+        <state relative-caret-position="154">
+          <caret line="105" column="34" lean-forward="true" selection-start-line="105" selection-start-column="34" selection-end-line="105" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="3166" column="25" selection-start-line="3166" selection-start-column="25" selection-end-line="3166" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/strategies/FormatterLower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/strategies/FormatterUpper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding>
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/strategies/FormatterInverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="53" lean-forward="true" selection-start-column="53" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/strategies/FormatterTrim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/strategies/FormatterSplitter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_samochod/SilnikSpalinowy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_samochod/Samochod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/IFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_samochod/INaped.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/Drukarka.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behavioral/strategy/zad_cczcionka/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
